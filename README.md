@@ -36,7 +36,7 @@
 - <b>Cybersecurity Certifications</b>
   - [Cybersecurity Fundamentals (IBM)](https://www.credly.com/badges/4f3b9224-0ecb-490c-acc4-956fb664da26/linked_in_profile)
 - <b>Programming Language</b>
-  - [Python Essentials 1 Badge](https://www.credly.com/badges/2b5e4f31-61d4-4a66-b350-4800eea1a1c9/linked_in_profile)
+  - [Python Essentials 1 Badge (Cisco) ](https://www.credly.com/badges/2b5e4f31-61d4-4a66-b350-4800eea1a1c9/linked_in_profile)
   
 <h2> 🤳🏽 Connect with me:</h2>
 
