@@ -3,15 +3,15 @@
 <h2>👨🏽‍💻 IT Projects:</h2>
 
 - <b>Active Directory Labs</b>
-  - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs) <b>
+  - [Praciting using Active Directory](https://github.com/A0005/Active-Directory-Labs) <b>
 - <b>Azure Labs</b>
-  - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs) <b>
+  - [Projects using Azure](https://github.com/A0005/Azure-Labs) <b>
 - <b>Microsoft 365 Labs</b>
   - [Projects using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
 - <b>Python Fundamentals</b>
-  - [Learning to use Python](https://github.com/A0005/Python-Projects) <b>
+  - [Learning to use Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
-  - [Learning to use Bash Scripting ](https://github.com/A0005/Bash-Scripting) <b>
+  - [Learning to use Bash Scripting ](https://github.com/A0005/Bash-Scripting-Fundamentals) <b>
 - <b>PowerShell Fundamentals</b>
   - [Learning to use PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
 - <b>CCNA</b>
