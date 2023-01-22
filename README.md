@@ -3,7 +3,9 @@
 <h2>👨🏽‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Labs</b>
-  - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs)
+  - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs)\
+- <b>Azure Home Labs</b>
+  - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs)
 - <b>AWS Cloud Quest Cloud Practitioner</b>
   - [Notes from AWS Cloud Quest Cloud Practitioner](https://github.com/A0005/AWS-Quest-Cloud-Practitioner)
 - <b>CCNA</b>
@@ -14,8 +16,6 @@
   - [Learning Python Fundamentals](https://github.com/A0005/Python-Projects) <b>
 - <b>Learning Bash Scripting</b>
   - [Learning to use Bash](https://github.com/A0005/Bash-Scripting) <b>
-- <b>ISC²</b>
-  - [Notes on ISC² Self Paced Training](https://github.com/A0005/Offical-ISC-CC-Self-Paced-Training-1M)
 - <b>Qualys</b>
   - [Notes on Qualys Guard's System](https://github.com/A0005/Qualys)
 
