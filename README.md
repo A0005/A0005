@@ -7,7 +7,7 @@
 - <b>Azure Home Labs</b>
   - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs) <b>
 - <b>Python Fundamentals</b>
-  - [Learning Python Fundamentals](https://github.com/A0005/Python-Projects) <b>
+  - [Learning to use Python](https://github.com/A0005/Python-Projects) <b>
 - <b>Bash Scripting Fundamentals</b>
   - [Learning to use Bash Scripting ](https://github.com/A0005/Bash-Scripting) <b>
 - <b>PowerShell Fundamentals</b>
