@@ -2,10 +2,12 @@
 
 <h2>👨🏽‍💻 IT Projects:</h2>
 
-- <b>Active Directory Home Labs</b>
+- <b>Active Directory Labs</b>
   - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs) <b>
-- <b>Azure Home Labs</b>
+- <b>Azure Labs</b>
   - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs) <b>
+- <b>Microsoft 365 Labs</b>
+  - [Projects using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
 - <b>Python Fundamentals</b>
   - [Learning to use Python](https://github.com/A0005/Python-Projects) <b>
 - <b>Bash Scripting Fundamentals</b>
