@@ -3,11 +3,11 @@
 <h2>👨🏽‍💻 IT Projects:</h2>
 
 - <b>Active Directory Labs</b>
-  - [Praciting using Active Directory](https://github.com/A0005/Active-Directory-Labs) <b>
+  - [Practicing using Active Directory](https://github.com/A0005/Active-Directory-Labs) <b>
 - <b>Azure Labs</b>
-  - [Projects using Azure](https://github.com/A0005/Azure-Labs) <b>
+  - [Practicing using Azure](https://github.com/A0005/Azure-Labs) <b>
 - <b>Microsoft 365 Labs</b>
-  - [Projects using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
+  - [Practicing using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
 - <b>Python Fundamentals</b>
   - [Learning to use Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
