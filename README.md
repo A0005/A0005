@@ -10,8 +10,8 @@
   - [Learning Python Fundamentals](https://github.com/A0005/Python-Projects) <b>
 - <b>Learning Bash Scripting</b>
   - [Learning to use Bash Scripting Fundamentals ](https://github.com/A0005/Bash-Scripting) <b>
-- <b>Learning Bash Scripting</b>
-  - [Learning to use Bash Scripting Fundamentals ](https://github.com/A0005/Bash-Scripting) <b>
+- <b>PowerShell Fundamentals</b>
+  - [Learning to use PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
 - <b>CCNA</b>
   - [Notes on my CCNA Studies](https://github.com/A0005/CCNA) <b>
 
