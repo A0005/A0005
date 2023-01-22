@@ -3,7 +3,7 @@
 <h2>👨🏽‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Labs</b>
-  - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs)\
+  - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs)
 - <b>Azure Home Labs</b>
   - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs)
 - <b>AWS Cloud Quest Cloud Practitioner</b>
