@@ -10,14 +10,11 @@
   - [Notes from AWS Cloud Quest Cloud Practitioner](https://github.com/A0005/AWS-Quest-Cloud-Practitioner)
 - <b>CCNA</b>
   - [Notes on my CCNA Studies](https://github.com/A0005/CCNA)
-- <b>EE Playmaker</b>
-  - [Notes on The FA EE Playmaker Course](https://github.com/A0005/EE-Playmaker)
 - <b>Learning Python</b>
   - [Learning Python Fundamentals](https://github.com/A0005/Python-Projects) <b>
 - <b>Learning Bash Scripting</b>
-  - [Learning to use Bash](https://github.com/A0005/Bash-Scripting) <b>
-- <b>Qualys</b>
-  - [Notes on Qualys Guard's System](https://github.com/A0005/Qualys)
+  - [Learning to use Bash Scripting Fundamentals ](https://github.com/A0005/Bash-Scripting) <b>
+
 
 
 
