@@ -6,10 +6,10 @@
   - [Praciting using Active Directory](https://github.com/A0005/IT-Support-Labs) <b>
 - <b>Azure Home Labs</b>
   - [Projects using Azure](https://github.com/A0005/Azure-Home-Labs) <b>
-- <b>Learning Python</b>
+- <b>Python Fundamentals</b>
   - [Learning Python Fundamentals](https://github.com/A0005/Python-Projects) <b>
-- <b>Learning Bash Scripting</b>
-  - [Learning to use Bash Scripting Fundamentals ](https://github.com/A0005/Bash-Scripting) <b>
+- <b>Bash Scripting Fundamentals</b>
+  - [Learning to use Bash Scripting ](https://github.com/A0005/Bash-Scripting) <b>
 - <b>PowerShell Fundamentals</b>
   - [Learning to use PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
 - <b>CCNA</b>
