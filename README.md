@@ -8,6 +8,10 @@
   - [Practicing using Azure](https://github.com/A0005/Azure-Labs) <b>
 - <b>Microsoft 365 Labs</b>
   - [Practicing using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
+- <b>Vulnerability Management Lab</b>
+  - [Practicing performing vulnerability assessments](https://github.com/A0005/Vulnerability-Management-Lab) <b>
+- <b>Network Analysis Lab</b>
+  - [Practicing performing network analysis](https://github.com/A0005/Network-Analysis-Lab) <b>
 - <b>Python Fundamentals</b>
   - [Learning to use Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
