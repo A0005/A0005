@@ -21,14 +21,13 @@
 - <b>CCNA</b>
   - [Notes on my CCNA Studies](https://github.com/A0005/CCNA) <b>
 
-
-
-
 <h2>📄 Certifications:</h2>
+  - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9UC2KC33JACV)
+
+
+<h2>📄 Training Certifications:</h2>
 
 - <b>IT Support Certifications</b>
-  - [Exam 410: Installing and Configuring Windows Server 2012 Badge](https://www.credly.com/badges/15f788d4-e528-479f-b07f-d54ca1bcb576?source=linked_in_profile)
-   - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9UC2KC33JACV)
    - [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7ee1011f-966a-4881-ba12-b2feda987c75/)
    - [IT Support Fundamentals for IT Beginners](https://www.udemy.com/certificate/UC-d0784a97-c4ba-479f-9ad4-de1b505f0a1d/)
    - [Getting Started with Google Workspace Specialization](https://www.coursera.org/account/accomplishments/specialization/R5CSRLVDE66A)
