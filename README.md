@@ -1,13 +1,11 @@
 <h1>Hi, I'm Mohamed! <br/><a href="https://github.com/A0005">IT Professional</a>, <a href="http://www.linkedin.com/in/mohamedxmohamud">IT Support Technician</a>
 
-<h2>👨🏽‍💻 IT Projects:</h2>
+<h2>👨🏽‍💻 Home Labs:</h2>
 
 - <b>Active Directory Labs</b>
   - [Practicing using Active Directory](https://github.com/A0005/Active-Directory-Labs) <b>
 - <b>Azure Labs</b>
   - [Practicing using Azure](https://github.com/A0005/Azure-Labs) <b>
-- <b>Microsoft 365 Labs</b>
-  - [Practicing using Microsoft 365](https://github.com/A0005/Microsoft-365-Labs) <b>
 - <b>Vulnerability Management Lab</b>
   - [Practicing performing vulnerability assessments](https://github.com/A0005/Vulnerability-Management-Lab) <b>
 - <b>Network Analysis Lab</b>
@@ -22,10 +20,11 @@
   - [Notes on my CCNA Studies](https://github.com/A0005/CCNA) <b>
 
 <h2>📄 Certifications:</h2>
-  - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9UC2KC33JACV)
+
+- [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9UC2KC33JACV)
 
 
-<h2>📄 Training Certifications:</h2>
+<h2>🛠️ Training Certifications:</h2>
 
 - <b>IT Support Certifications</b>
    - [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7ee1011f-966a-4881-ba12-b2feda987c75/)
