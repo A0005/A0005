@@ -3,7 +3,7 @@
 <h2>👨🏽‍💻 Home Labs:</h2>
 
 - <b>Defensive Security Diploma</b>
-  - [Learning the skills to become a SOC Analyst](https://github.com/A0005/Active-Directory-Labs) <b>
+  - [Learning the skills to become a SOC Analyst](https://github.com/A0005/Defensive-Security-Diploma) <b>
 - <b>Azure Labs</b>
   - [Practicing using Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
 - <b>AWS Labs</b>
