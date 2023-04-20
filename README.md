@@ -2,10 +2,10 @@
 
 <h2>👨🏽‍💻 Home Labs:</h2>
 
-- <b>Active Directory Labs</b>
-  - [Practicing using Active Directory](https://github.com/A0005/Active-Directory-Labs) <b>
+- <b>Defensive Security Diploma</b>
+  - [Learning the skills to become a SOC Analyst](https://github.com/A0005/Active-Directory-Labs) <b>
 - <b>Azure Labs</b>
-  - [Practicing using Azure](https://github.com/A0005/Azure-Labs) <b>
+  - [Practicing using Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
 - <b>AWS Labs</b>
   - [Building an App on AWS](https://github.com/A0005/aws-bootcamp-cruddur-2023) <b>
 - <b>Vulnerability Management Lab</b>
@@ -13,13 +13,11 @@
 - <b>Network Analysis Lab</b>
   - [Practicing performing network analysis](https://github.com/A0005/Network-Analysis-Lab) <b>
 - <b>Python Fundamentals</b>
-  - [Learning to use Python](https://github.com/A0005/Python-Fundamentals) <b>
+  - [Learning Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
-  - [Learning to use Bash Scripting ](https://github.com/A0005/Bash-Scripting-Fundamentals) <b>
+  - [Learning Bash Scripting ](https://github.com/A0005/Bash-Scripting-Fundamentals) <b>
 - <b>PowerShell Fundamentals</b>
-  - [Learning to use PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
-- <b>CCNA</b>
-  - [Notes on my CCNA Studies](https://github.com/A0005/CCNA) <b>
+  - [Learning PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
 
 <h2>📄 Certifications:</h2>
 
