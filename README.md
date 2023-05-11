@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed! <br/><a href="http://www.linkedin.com/in/mohamedxmohamud">IT Professional</a>
+<h1>Hi, I'm Mohamed! <br/><a href="http://www.linkedin.com/in/mohamedxmohamud">IT & Cybersecurity Professional</a>
 
 <h2>👨🏽‍💻 Home Labs:</h2>
 
