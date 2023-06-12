@@ -4,8 +4,6 @@
 
 - <b>Azure Labs</b>
   - [Practicing using Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
-- <b>AWS Labs</b>
-  - [Building an App on AWS](https://github.com/A0005/aws-bootcamp-cruddur-2023) <b>
 - <b>Vulnerability Management Lab</b>
   - [Practicing performing vulnerability assessments](https://github.com/A0005/Vulnerability-Management-Lab) <b>
 - <b>Python Fundamentals</b>
