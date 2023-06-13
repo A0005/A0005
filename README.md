@@ -22,7 +22,7 @@
    - [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7ee1011f-966a-4881-ba12-b2feda987c75/)
    - [IT Support Fundamentals for IT Beginners](https://www.udemy.com/certificate/UC-d0784a97-c4ba-479f-9ad4-de1b505f0a1d/)
    - [Getting Started with Google Workspace Specialization](https://www.coursera.org/account/accomplishments/specialization/R5CSRLVDE66A)
-   - [Linux 101 (TCM Security)] ()
+   - [Linux 101 (TCM Security)]()
 - <b>Networking Certifications</b>
    - [NSE 2 The Evolution of Cybersecurity (Fortinet)](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251440&code=JE7gFqQ60V&qrcode=1)
    - [NSE 3 Network Security Associate (Fortinet)](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251441&code=IBNeHHPBsH&qrcode=1)
