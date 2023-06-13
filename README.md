@@ -10,8 +10,6 @@
   - [Learning Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
   - [Learning Bash Scripting ](https://github.com/A0005/Bash-Scripting-Fundamentals) <b>
-- <b>PowerShell Fundamentals</b>
-  - [Learning PowerShell ](https://github.com/A0005/PowerShell-Fundamentals) <b>
 
 <h2>📄 Certifications:</h2>
 
@@ -30,6 +28,8 @@
   - [AWS Cloud Quest: Cloud Practitioner Badge](https://www.credly.com/badges/e4eadf55-bbb1-49de-b8b6-dd9308a81753/linked_in_profile)
 - <b>Cybersecurity Certifications</b>
   - [Cybersecurity Fundamentals (IBM)](https://www.credly.com/badges/4f3b9224-0ecb-490c-acc4-956fb664da26/linked_in_profile)
+  - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-68f94a2a-daf8-4c2f-9330-a6e0f960e10c/view)
+  - [Introduction to IT & Cybersecurity (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-e348fad7-7537-41d0-bd62-ac1effa0acfe/view)
 - <b>Programming Language</b>
   - [Python Essentials 1 Badge (Cisco) ](https://www.credly.com/badges/2b5e4f31-61d4-4a66-b350-4800eea1a1c9/linked_in_profile)
   
