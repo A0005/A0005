@@ -14,6 +14,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9UC2KC33JACV)
+- [Oracle Cloud Infrastructure Foundation 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E53B73E8AC988BAF0EAD1FCC957884B99547210FF1AA853587D1D2036C9061B)
 
 
 <h2>🛠️ Training Certifications:</h2>
@@ -27,7 +28,6 @@
    - [NSE 3 Network Security Associate (Fortinet)](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251441&code=IBNeHHPBsH&qrcode=1)
 - <b>Cloud Certifications</b>   
   - [Google Cloud Digital Leader Training Specialization](https://www.coursera.org/account/accomplishments/professional-cert/D894FPSKTQWQ)
-  - [Oracle Cloud Infrastructure Foundation 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E53B73E8AC988BAF0EAD1FCC957884B99547210FF1AA853587D1D2036C9061B)
   - [AWS Cloud Quest: Cloud Practitioner Badge](https://www.credly.com/badges/e4eadf55-bbb1-49de-b8b6-dd9308a81753/linked_in_profile)
 - <b>Cybersecurity Certifications</b>
   - [Cybersecurity Fundamentals (IBM)](https://www.credly.com/badges/4f3b9224-0ecb-490c-acc4-956fb664da26/linked_in_profile)
