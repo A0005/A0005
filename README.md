@@ -3,9 +3,9 @@
 <h2>👨🏽‍💻 Home Labs:</h2>
 
 - <b>SOC Analyst Lab</b>
-  - [Training on threat detection and vulnerability management](https://github.com/A0005/SOC-Analyst-Lab) <b>
+  - [Trained on threat detection and vulnerability management](https://github.com/A0005/SOC-Analyst-Lab) <b>
 - <b>Azure Labs</b>
-  - [Practicing using Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
+  - [Trained on Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
 - <b>Python Fundamentals</b>
   - [Learning Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
