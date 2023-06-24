@@ -5,7 +5,7 @@
 - <b>Azure Labs</b>
   - [Practicing using Azure and Active Directory](https://github.com/A0005/Azure-Labs) <b>
 - <b>Vulnerability Management Lab</b>
-  - [Practicing performing vulnerability assessments](https://github.com/A0005/Vulnerability-Management-Lab) <b>
+  - [SOC Analyst Lab](https://github.com/A0005/SOC-Analyst-Lab) <b>
 - <b>Python Fundamentals</b>
   - [Learning Python](https://github.com/A0005/Python-Fundamentals) <b>
 - <b>Bash Scripting Fundamentals</b>
