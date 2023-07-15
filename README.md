@@ -33,6 +33,7 @@
 - <b>Cybersecurity Certifications</b>
   - [Cisco CyberOps Associate](https://www.credly.com/earner/earned/badge/2ed24854-f766-4390-a3ab-5b372bf873b7)
   - [IBM Resilient SOAR Foundations](https://www.credly.com/earner/earned/badge/b73f6962-0399-44ae-b692-04c3bc7811e6)
+  - [Qualys Foundation Certifications](https://www.linkedin.com/posts/mohamedxmohamud_qualys-socanalyst-endpointdetectionandresponse-activity-7082164139690762240-yjpV?utm_source=share&utm_medium=member_desktop)
   - [Cybersecurity Fundamentals (IBM)](https://www.credly.com/badges/4f3b9224-0ecb-490c-acc4-956fb664da26/linked_in_profile)
   - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-68f94a2a-daf8-4c2f-9330-a6e0f960e10c/view)
   - [Introduction to IT & Cybersecurity (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-e348fad7-7537-41d0-bd62-ac1effa0acfe/view)
