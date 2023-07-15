@@ -20,6 +20,7 @@
 <h2>🛠️ Training Certifications:</h2>
 
 - <b>IT Support Certifications</b>
+   - [Jira Service Management Fundamentals](https://university.atlassian.com/student/award/CyqcKNoq3UBEqut6baVxX1qZ)
    - [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7ee1011f-966a-4881-ba12-b2feda987c75/)
    - [IT Support Fundamentals for IT Beginners](https://www.udemy.com/certificate/UC-d0784a97-c4ba-479f-9ad4-de1b505f0a1d/)
    - [Getting Started with Google Workspace Specialization](https://www.coursera.org/account/accomplishments/specialization/R5CSRLVDE66A)
@@ -30,6 +31,8 @@
   - [Google Cloud Digital Leader Training Specialization](https://www.coursera.org/account/accomplishments/professional-cert/D894FPSKTQWQ)
   - [AWS Cloud Quest: Cloud Practitioner Badge](https://www.credly.com/badges/e4eadf55-bbb1-49de-b8b6-dd9308a81753/linked_in_profile)
 - <b>Cybersecurity Certifications</b>
+  - [Cisco CyberOps Associate](https://www.credly.com/earner/earned/badge/2ed24854-f766-4390-a3ab-5b372bf873b7)
+  - [IBM Resilient SOAR Foundations](https://www.credly.com/earner/earned/badge/b73f6962-0399-44ae-b692-04c3bc7811e6)
   - [Cybersecurity Fundamentals (IBM)](https://www.credly.com/badges/4f3b9224-0ecb-490c-acc4-956fb664da26/linked_in_profile)
   - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-68f94a2a-daf8-4c2f-9330-a6e0f960e10c/view)
   - [Introduction to IT & Cybersecurity (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-e348fad7-7537-41d0-bd62-ac1effa0acfe/view)
