@@ -38,6 +38,9 @@
   - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-68f94a2a-daf8-4c2f-9330-a6e0f960e10c/view)
   - [Introduction to IT & Cybersecurity (Cybrary)](https://app.cybrary.it/courses/api/certificate/CC-e348fad7-7537-41d0-bd62-ac1effa0acfe/view)
   - [Blue Team Junior Analyst (Security Blue Team)](https://www.linkedin.com/feed/update/urn:li:activity:7077012665755123712/)
+  - [Getting Started in Cybersecurity 1.0 (Fortinet)](https://www.credly.com/earner/earned/badge/aa6b14ee-d1f7-42b8-a628-b2825c320129)
+  - [Introduction to Threat Landscape 1.0 (Fortinet)](https://www.credly.com/earner/earned/badge/7145e114-f293-4231-954e-6c346a9261d9)
+  - [Fortinet Certified Fundamentals Cybersecurity (Fortinet)](https://www.credly.com/earner/earned/badge/8dd971aa-a0b5-4126-beb6-a1e3821e1979)
 - <b>Programming Language</b>
   - [Python Essentials 1 Badge (Cisco) ](https://www.credly.com/badges/2b5e4f31-61d4-4a66-b350-4800eea1a1c9/linked_in_profile)
   
